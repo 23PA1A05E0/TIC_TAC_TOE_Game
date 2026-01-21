@@ -5,7 +5,7 @@ The game allows **two players** to play turn by turn using **X** and **O**.
 
 ---
 
-## 🛠️ Features
+## Features
 - 3×3 Tic Tac Toe board
 - Two-player game (Player X and Player O)
 - Input using row and column numbers
@@ -15,7 +15,7 @@ The game allows **two players** to play turn by turn using **X** and **O**.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Make sure Java is installed on your system.
 2. Compile the program:
